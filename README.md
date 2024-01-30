@@ -3,7 +3,7 @@ This is a simple CRUD application that creates a person entry in a MySQL databas
 
 # How to use
 
-1. [Install](https://www.mysql.com/downloads/) Install MySQL
+1. [Install](https://www.mysql.com/downloads/) MySQL
 2. [Download](https://dev.mysql.com/downloads/connector/j/) JDBC driver for MySQL
 3. Create a table in mySQL using the following command:
 ```markdown
