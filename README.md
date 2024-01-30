@@ -3,7 +3,7 @@ This is a simple CRUD application that creates a person entry in a MySQL databas
 
 # How to use
 
-1. Install MySQL
+1. [Install](https://www.mysql.com/downloads/) Install MySQL
 2. [Download](https://dev.mysql.com/downloads/connector/j/) JDBC driver for MySQL
 3. Create a table in mySQL using the following command:
 ```markdown
@@ -17,8 +17,8 @@ age VARCHAR(3) NOT NULL
 
 4. Create a 'connection.properties' file with the following details: 
 ```markdown
-	db.url=jdbc:mysql://localhost:port/your_database_name
-    db.user=your_username
-    db.password=your_password
+db.url=jdbc:mysql://localhost:port/your_database_name
+db.user=your_username
+db.password=your_password
 ```
 5. Go to application.java and run!
